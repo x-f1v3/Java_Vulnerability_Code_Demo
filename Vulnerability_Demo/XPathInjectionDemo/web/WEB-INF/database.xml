@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<users>
+   <user>
+      <name>Victoria</name>
+      <privileges>admin</privileges>
+      <password>qwerty123</password>
+      <email>pudge1998@gmail.com</email>
+   </user>
+	
+   <user>
+      <name>Cerveza</name>
+      <privileges>basic</privileges>
+      <password>veryStrongPassword</password>
+      <email>pinta@gmail.com</email>
+   </user>
+
+   <user>
+      <name>Cruzcampo</name>
+      <privileges>basic</privileges>
+      <password>password111</password>
+      <email>dodger@mail.ru</email>	
+   </user>
+</users>
